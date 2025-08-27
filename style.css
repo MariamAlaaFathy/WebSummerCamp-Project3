@@ -1,0 +1,33 @@
+* {
+  color: white;
+}
+
+body {
+  background: url(images/wer.jpg) no-repeat center / cover;
+  background-color: rgba(107, 0, 0, 0.634);
+  background-blend-mode: multiply;
+}
+
+.bakerylist {
+    background-color: red;
+}
+
+.logo {
+    height: 30px;
+}
+
+button {
+    color: lightgreen;
+}
+
+.food {
+    width: 100px;
+}
+
+.icon {
+    width: 100px;
+}
+
+#copyright {
+    color: purple;
+}
